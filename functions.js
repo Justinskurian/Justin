@@ -86,7 +86,7 @@ while (i<=10) {
 }
 
 //Do while loop
-let r=1;
+let r=2;
 do {
     console.log(r);
     r++;
